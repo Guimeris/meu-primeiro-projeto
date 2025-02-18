@@ -6,3 +6,4 @@ let mensagem1 = "Essa é a primeira alteração"
 
 //Agora, vamos exibir a mensagem no console.
 console.log(mensagem);
+console.log(mensagem1);
